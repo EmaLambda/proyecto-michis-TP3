@@ -2,7 +2,7 @@ export default function Proyectos() {
   const proyectos = [
     { 
       title: "Proyecto Pokémon", 
-      img: "/pokemon.jpeg", 
+      img: "pokemon.jpeg", 
       desc: "Una simulación de combate simple en la terminal del famoso juego de Pokémon",
       tecnologias: ["Java"],
       imgPosition: "object-center",
@@ -10,7 +10,7 @@ export default function Proyectos() {
     },
     { 
       title: "Tetris", 
-      img: "/Tetris.jpg", 
+      img: "Tetris.jpg", 
       desc: "Una versión clásica del Tetris para práctica.",
       tecnologias: ["Java"],
       imgPosition: "object-bottom",
@@ -18,7 +18,7 @@ export default function Proyectos() {
     },
     { 
       title: "Gato en terminal", 
-      img: "/tictactoe.png", 
+      img: "tictactoe.png", 
       desc: "El famoso juego de gato o tres en raya, ahora en la terminal; utilizando java.",
       tecnologias: ["Java"],
       imgPosition: "object-[center_20%]",

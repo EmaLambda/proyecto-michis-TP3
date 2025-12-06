@@ -4,7 +4,7 @@ export default function Header() {
      
       {/* Imagen de fondo */}
       <video
-        src="/fondo.mp4"
+        src="fondo.mp4"
         autoPlay
         loop
         muted
@@ -15,7 +15,7 @@ export default function Header() {
       {/* Contenido */}
       <div className="relative z-10">
         <img
-          src="/watamote.gif"
+          src="watamote.gif"
           className="w-40 h-40 rounded-full mx-auto border-4 border-white shadow-softpink"
         />
 
